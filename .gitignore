@@ -1,0 +1,6 @@
+# Netlify local state
+.netlify/
+
+# OS / editor cruft
+.DS_Store
+*.log
